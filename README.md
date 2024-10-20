@@ -4,8 +4,8 @@
 The Pomodoro Timer is a productivity tool that helps users manage their works and break intervals using the Pomodoro technique. This technique encourages sustained focus and short breaks to enhance productivity.
 
 <h3>Features</h3>
-<li><b>Set work and break intervals.</li>
-<li><b>Start, Pause, and Reset timer.</li>
+<li>Set work and break intervals.</li>
+<li>Start, Pause, and Reset timer.</li>
 <li>Notifications at the end of intervals.</li>
 <li>Simple and intuitive user interface.</li>
 
